@@ -9,3 +9,5 @@
 | [Tapatalk Jack Vance Forum](https://www.tapatalk.com/groups/jackvance/) | Community forum for discussion, questions, and fan conversation. |
 | [Underwood-Miller](https://en.wikipedia.org/wiki/Underwood%E2%80%93Miller) | Wikipedia reference for the publisher that issued notable Vance editions. |
 | [Vance Museum](http://www.vancemuseum.com) | Fan-run museum site with Jack Vance-related memorabilia and references. |
+
+More to come...
