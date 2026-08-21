@@ -1,10 +1,13 @@
 # Summary
 
 - [Jack Vance](./Jack.md)
+- [Full Bibliography: First Publications](./Bibliography.md)
 - [The Vance Integral Edition](./VIE.md)
 - [Underwood-Miller](./Underwood-Miller.md)
 - [Subterranean Press](./SubterraneanPress.md)
 - [Spatterlight Press](./SpatterlightPress.md)
+  - [Interview Fantasize](./Spatterlight-Fantasize.md)
+  - [Interview Fantasyworld](./Spatterlight-Fantasyworld.md)
 - [Cosmopolis: Issue List](./Cosmopolis.md)
 - [Extant: Issue List](./Extant.md)
 - [Interviews](./interviews.md)

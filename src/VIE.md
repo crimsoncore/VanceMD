@@ -1,5 +1,23 @@
 # The Vance Integral Edition: Volumes in Chronological Release Order
 The Vance Integral Edition (VIE) was published as a fixed 44-volume set (plus two earlier promotional volumes) between 2001 and 2006. It was not released all at once: two sample/promotional volumes appeared first, then the bulk of the set arrived to subscribers in two large "waves," and one further volume was issued afterward to replace content withdrawn for rights reasons. The list below gives every VIE book in that real-world release order — not the reading/writing order encoded in the volume numbers themselves (for that, see the 1–44 sequence noted alongside each entry).
+
+![image](./images/vie2.jpg)
+
+The VIE was officially incorporated on January 15th, 2001, as a nonprofit corporation in the state of California. 
+
+Who led it: The project was conceived and led by Paul Rhoads (an American painter living in France), who served as editor-in-chief. The actual incorporated officers, were:
+•  John Vance II (Jack's son) — President
+•  Paul Rhoads — Vice President
+•  Norma Vance — Secretary
+•  Ed Winskill — Treasurer
+•  Mike Berro — board member (credited elsewhere as the person who first launched the VIE idea)
+
+[VIE: The Vance Integral Edition](https://www.integralarchive.org/) is the official site for the project, with a full set of bibliographic and textual information on every volume, including story-level first-publication data. The site also hosts a complete archive of the VIE's original web content, including the original "VIE Notes" essays and other editorial apparatus.
+
+> NOTE: The restoration of Vance's authorial texts in the VIE is a major scholarly achievement, the restored texts are the definitive versions of Vance's work, and the VIE is the only edition that presents them all together. The VIE is a limited-edition set, and it is no longer in print. The VIE is not a "fan project" — it was a professional publishing effort with a nonprofit corporate structure, and it was produced with the full cooperation of Jack Vance and his family.
+>
+> People that want to buy the VIE should be aware that the set is no longer in print, and that any copies for sale are likely to be expensive. Lucklily Spatterlight Press has reprinted the VIE in a new edition, which is available for purchase. See `SpatterlightPress.md` for details. Same for ebooks (amazon.com, etc.) — the VIE is no longer available in ebook form, but Spatterlight Press has reissued the VIE as a new ebook edition.
+
 ## 2001 — Promotional volume
 Released ahead of the main set as a sample/introduction to the edition.
 - **Vol. i** — *Coup de Grace and Other Stories* ("The Gift Volume")
