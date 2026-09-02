@@ -1,14 +1,15 @@
 # Subterranean Press: Publications in Chronological Order
 
+![image](./images/subterranean.jpg)
+
 Subterranean Press (Burton, Michigan, founded 1995 by William Schafer) became the primary specialty publisher of Jack Vance material in the mid-to-late 2000s, coinciding with the Vance Integral Edition's completion and Vance's final years. Most of the fiction volumes below were edited by Terry Dowling and Jonathan Strahan and use VIE-restored texts rather than the original, often magazine-cut, printings.
 
-## 2007 - *The Jack Vance Treasury* — collection (ed. Dowling & Strahan); Locus Award 2008, 2nd place, Collection
+## 2007 - *The Jack Vance Treasury* — collection (ed. Dowling & Strahan); ***Locus Award 2008, 2nd place, Collection***
 
 ![image](./images/sub_treasury.jpg)
 
 Book contents:
 
-```
 - Preface (Jack Vance)
 - "Jack Vance: An Appreciation" (George R.R. Martin)
 - Introduction: Fruit from the Tree of Life
@@ -31,7 +32,7 @@ Book contents:
 - Morreion
 - The Last Castle
 - "Biographical Sketch & Other Facts" (Jack Vance)
-```
+
 
 ## 2007 - *The Kragen* — chapbook, standalone edition of the 1964 novella that later became the source text for *The Blue World*
 
@@ -39,9 +40,7 @@ Book contents:
 
 Book contents:
 
-```
 - The Kragen
-```
 
 ## 2008 - *The Jack Vance Reader* — collection (ed. Dowling & Strahan)
 
@@ -51,11 +50,9 @@ Book contents:
 
 Book contents:
 
-```
 - Emphyrio
 - The Domains of Koryphon
 - The Languages of Pao
-```
 
 ## 2009 - *Wild Thyme, Green Magic* — collection (ed. Dowling & Strahan)
 
@@ -63,7 +60,6 @@ Book contents:
 
 Book contents:
 
-```
 - Introduction (Terry Dowling & Jonathan Strahan)
 - Assault on a City
 - Green Magic
@@ -79,11 +75,8 @@ Book contents:
 - Rumfuddle
 - "A Different View of Jack Vance" (essay, Norma Vance)
 - "A Jack Vance Biography" (essay, Norma Vance)
-```
 
----
-
-## 2009 - *This Is Me, Jack Vance!* — autobiography, dictated to Jeremy Cavaterra; won the 2010 Hugo Award, Best Related Work
+## 2009 - *This Is Me, Jack Vance!* — autobiography, dictated to Jeremy Cavaterra; won the ***2010 Hugo Award, Best Related Work***
 
 ![image](./images/sub_thisisme.jpg)
 
@@ -101,7 +94,6 @@ Book contents:
 
 Book contents:
 
-```
 - Introduction
 - Hard-Luck Diggings (with Vance's own afterword)
 - The Temple of Han (with afterword)
@@ -117,7 +109,6 @@ Book contents:
 - Where Hesperus Falls (with afterword)
 - The Phantom Milkman (with afterword)
 - Dodkin's Job (with afterword)
-```
 
 ## 2011 - *Dangerous Ways: Selected Mysteries* — mystery omnibus (introduction by Dowling & Strahan)
 
@@ -125,11 +116,9 @@ Book contents:
 
 Book contents:
 
-```
 - The Man in the Cage
 - Bad Ronald
 - The Deadly Isles
-```
 
 ## 2012 - *Dream Castles: The Early Jack Vance*, Vol. 2 — collection (ed. Dowling & Strahan); Locus Award 2013, 11th place, Collection
 
@@ -137,7 +126,6 @@ Book contents:
 
 Book contents:
 
-```
 - The Dogtown Tourist Agency
 - Freitzke's Turn
 - I'll Build Your Dream Castle
@@ -148,7 +136,6 @@ Book contents:
 - The Narrow Land
 - The Enchanted Princess
 - Son of the Tree
-```
 
 ## 2012 - *Desperate Days: Selected Mysteries*, Vol. 2 — mystery omnibus (ed. Dowling & Strahan)
 
@@ -156,13 +143,12 @@ Book contents:
 
 Book contents:
 
-```
 - Introduction (Dowling & Strahan)
 - The Fox Valley Murders
 - The Pleasant Grove Murders
 - The Dark Ocean
 - "The Genesee Slough Murders: Outline for a Novel" (lettered edition only)
-```
+
 
 ## 2013 - *Magic Highways: The Early Jack Vance*, Vol. 3 — collection (ed. Dowling & Strahan)
 
@@ -172,7 +158,6 @@ Book contents:
 
 Book contents:
 
-```
 - Introduction
 - Phalid's Fate
 - Planet of the Black Dust
@@ -190,7 +175,6 @@ Book contents:
 - The King of Thieves
 - The Spa of the Stars
 - To B or Not to C or to D
-```
 
 ## 2013 - *The Dying Earth* — illustrated edition of the original 1950 story-cycle (illus. Tom Kidd), distinct from the two Underwood-Miller hardcovers of the same title (1976, 1994; see `Underwood-Miller.md`)
 
@@ -198,14 +182,12 @@ Book contents:
 
 Book contents:
 
-```
 - Mazirian the Magician
 - Turjan of Miir
 - T'sais
 - Liane the Wayfarer
 - Ulan Dhor Ends a Dream
 - Guyal of Sfere
-```
 
 ## 2014 - *Minding the Stars: The Early Jack Vance*, Vol. 4 — collection (ed. Dowling & Strahan)
 
@@ -213,7 +195,6 @@ Book contents:
 
 Book contents:
 
-```
 - Introduction
 - Nopalgarth (a variant of The Brains of Earth)
 - Telek
@@ -223,7 +204,6 @@ Book contents:
 - The World Between
 - Milton Hack from Zodiac
 - Parapsyche
-```
 
 ## 2015 - *Grand Crusades: The Early Jack Vance*, Vol. 5 — collection (ed. Dowling & Strahan), 1,000 copies; the final volume of the five-volume "Early Jack Vance" series
 
@@ -231,14 +211,12 @@ Book contents:
 
 Book contents:
 
-```
 - Introduction
 - The Rapparee
 - Crusade to Maxus
 - Gold and Iron
 - The Houses of Iszm
 - Space Opera
-```
 
 ## Notes
 - *Magic Highways* Vol. 3 story-list discrepancy: the publisher's current site copy lists Phalid's Fate, Planet of the Black Dust, Ultimate Quest, Men of the Ten Books, The Planet Machine, Dover Spargill's Ghastly Floater, Winner Lose All, Sabotage on Sulfur Planet, The House Lords, Sanatoris Short-Cut, The Unspeakable McInch, The Sub-Standard Sardines, The Howling Bounders, The King of Thieves, The Spa of the Stars, and To B or Not to C or to D, while a 2014 blog report of the same publisher's original jacket copy instead lists Dead Ahead in place of "Ultimate Quest," and The Uninhibited Robot and The Visitors in place of "Men of the Ten Books"/"The Planet Machine." "Ultimate Quest" and "Dead Ahead" are known variant titles of the same story per `VIE.md`, so this may not be a real content difference, but it has not been reconciled title-by-title.

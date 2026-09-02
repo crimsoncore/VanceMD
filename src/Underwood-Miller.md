@@ -84,7 +84,11 @@ A year dominated by reissues — the Durdane trilogy in a matching slipcased set
 The partnership's final year.
 - *The Dying Earth* — hardcover reprint, the press's last book, closing the circle back to its 1976 debut
 - *The Work of Jack Vance* (Jerry Hewett & Daryl F. Mallett, ed. Boden Clarke) — bibliography that became the standard Vance reference for years afterward; cited elsewhere in this project's `VIE.md`
+- 
 ## Underwood Books (Tim Underwood, solo, post-1994)
+
+![image](./images/underwood_books.jpg)
+
 After Underwood-Miller closed, Tim Underwood founded **Underwood Books** (Grass Valley/Nevada City, CA) in 1994, specializing mostly in fantasy/SF art books (the long-running *Spectrum* annual anthology, Frank Frazetta and Jeffrey Jones art books, etc.) and reissued Philip K. Dick and Stephen King material. **It also quietly published the true first editions of Vance's last two novels** — a fact easy to miss because the more widely-seen Tor trade hardcovers followed within months and are what most readers and even some checklists cite as "the" first edition:
 - ***Night Lamp*** (1996; Gaean Reach) — **Underwood Books, April 1996**: limited/signed edition of 600 numbered copies, cover by Stephen Hickman, ISBN 1-887424-18-0, $60. Tor's trade hardcover followed in **November 1996** ($23.95). Confirmed by ISFDB, Wikipedia's own infobox for the novel, SFE picture gallery, and a dealer listing (L.W. Currey) for the Underwood limited edition.
 - ***Ports of Call*** (1998; Ports of Call/Gaean Reach #1) — **Underwood Books, January 1998**: limited/signed edition, cover by Rick Berry, ISBN 1-887424-39-3, viii+239pp, $60. Tor's trade hardcover followed in **April 1998** ($24.95). Confirmed by ISFDB and a Dutch review site citing "Eerste druk: Underwood Books, Nevada City."

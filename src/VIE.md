@@ -102,7 +102,7 @@ All six stories were written for and first published together in *The Dying Eart
 - **The God and the Temple Robber** (published as "Temple of Han") — *Planet Stories*, July 1951.
 - **Telek** — *Astounding Science Fiction*, January 1952.
 - **Noise** — *Startling Stories*, August 1952.
-- **Seven Exits from Bocz** — *The Rhodomagnetic Digest*, v4 #2, 1952.
+- **Seven Exits from Bocz** — *The Rhodomagnetic Digest*, Volume IV, issue #21, number 2, 1952.
 - **DP!** — *Avon Science Fiction and Fantasy Reader*, April 1953.
 - **The Absent-Minded Professor** (published as "First Star I See Tonight", under the pseudonym John Van See; later reprinted as "Murder Observed") — *Malcolm's Mystery Magazine*, March 1954.
 - **The Devil on Salvation Bluff** — *Star Science Fiction Stories No. 3*, ed. Frederik Pohl, Ballantine, January 1955.
@@ -166,7 +166,7 @@ All six stories were written for and first published together in *The Dying Eart
 - **The Languages of Pao** — *Satellite Science Fiction*, December 1957; Avalon Books, 1958 (book).
 
 ## Vol. 8 — The Houses of Iszm and Other Stories
-- **The Houses of Iszm** [Nopalgarth] — *Startling Stories*, Spring 1954.
+- **The Houses of Iszm** — *Startling Stories*, Spring 1954.
 - **The Gift of Gab** — *Astounding Science Fiction*, September 1955.
 - **Nopalgarth** (published as "The Brains of Earth") — Ace Books, 1966 (book original; no prior serialization).
 - **The Narrow Land** — *Fantastic*, July 1967.
