@@ -113,14 +113,14 @@ All six stories were written for and first published together in *The Dying Eart
 - **The Secret** — *Impulse*, March 1966.
 
 ## Vol. 3 — Gadget Stories
-- **Planet of the Black Dust** — *Startling Stories*, Summer 1946.
+- **Planet of the Black Dust** (Alternate title "Planet of the Red Star")— *Startling Stories*, Summer 1946.
 - **Dead Ahead** (published as "Ultimate Quest", under the pseudonym John Holbrook) — *Super Science Stories*, September 1950.
 - **Hard Luck Diggings** [Magnus Ridolph] — *Startling Stories*, July 1948.
 - **Sanatoris Short-Cut** [Magnus Ridolph] — *Startling Stories*, September 1948.
 - **The Unspeakable McInch** [Magnus Ridolph] — *Startling Stories*, November 1948.
 - **The Howling Bounders** [Magnus Ridolph] — *Startling Stories*, March 1949.
 - **The King of Thieves** [Magnus Ridolph] — *Startling Stories*, November 1949.
-- **The Sub-Standard Sardines** [Magnus Ridolph] — *Startling Stories*, January 1949.
+- **The Sub-Standard Sardines** [Magnus Ridolph] (The Case of the Sub-standard Sardines (a.k.a.) and The Sub-standard Sardines (a.k.a.)) — *Startling Stories*, January 1949.
 - **To B or Not to C or to D** (published as "Cosmic Hotfoot") [Magnus Ridolph] — *Startling Stories*, September 1950.
 - **The Spa of the Stars** [Magnus Ridolph] — *Startling Stories*, July 1950.
 - **The Enchanted Princess** (later reprinted as "The Dreamer", Alternate title "The Enchanted Princess and Roger Atkin") — *Orbit*, v1 #5, 1954.
