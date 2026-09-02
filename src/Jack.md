@@ -2,13 +2,7 @@
 
 ![Jack Vance](./images/19vance-500.jpg)
 
-Jack Vance was an American mystery, fantasy and science
-fiction author. Vance's oeuvre spans more 50 novels and 100
-short stories. Most of his work has been published under the
-name Jack Vance. He published 11 mysteries as John
-Holbrook Vance and 3 as Ellery Queen. Other pen names
-(each used only once) included Alan Wade, Peter Held, John
-van See, and Jay Kavanse.
+Jack Vance was an American mystery, fantasy and science fiction author. Vance's oeuvre spans more 50 novels and 100 short stories. Most of his work has been published under the name Jack Vance. He published 11 mysteries as ***John Holbrook Vance*** and 3 as ***Ellery Queen***. Other pen names (each used only once) included ***Alan Wade***, ***Peter Held***, ***John van See***, and ***J A Kavnnes***.
 
 Among his awards are: Hugo Awards, in 1963 for The
 Dragon Masters, in 1967 for The Last Castle, and in 2010

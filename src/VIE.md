@@ -123,10 +123,10 @@ All six stories were written for and first published together in *The Dying Eart
 - **The Sub-Standard Sardines** [Magnus Ridolph] — *Startling Stories*, January 1949.
 - **To B or Not to C or to D** (published as "Cosmic Hotfoot") [Magnus Ridolph] — *Startling Stories*, September 1950.
 - **The Spa of the Stars** [Magnus Ridolph] — *Startling Stories*, July 1950.
-- **The Enchanted Princess** (later reprinted as "The Dreamer") — *Orbit*, v1 #5, 1954.
+- **The Enchanted Princess** (later reprinted as "The Dreamer", Alternate title "The Enchanted Princess and Roger Atkin") — *Orbit*, v1 #5, 1954.
 - **The Potters of Firsk** — *Astounding Science Fiction*, May 1950.
 - **The Visitors** (published as "Winner Lose All") — *Galaxy Science Fiction*, December 1951.
-- **The Uninhibited Robot** (published as "The Plagian Siphon") — *Thrilling Wonder Stories*, October 1951.
+- **The Uninhibited Robot** (published as "The Plagian Siphon", Alternate title "The Planet Machine") — *Thrilling Wonder Stories*, October 1951.
 - **Dover Spargill's Ghastly Floater** — *Marvel Science Fiction*, November 1951.
 - **Sabotage on Sulfur Planet** — *Startling Stories*, June 1952.
 - **Three-Legged Joe** — *Startling Stories*, January 1953.
@@ -143,16 +143,16 @@ All six stories were written for and first published together in *The Dying Eart
 ## Vol. 5 — Son of the Tree and Other Stories
 - **Phalid's Fate** — *Thrilling Wonder Stories*, December 1946.
 - **Chateau d'If** (published as "New Bodies for Old") — *Thrilling Wonder Stories*, August 1950.
-- **Crusade to Maxus** (published as "Overlords of Maxus") — *Thrilling Wonder Stories*, February 1951.
+- **Crusade to Maxus** (published as "Overlords of Maxus", Call for the New Crusade (Draft Title), Crazy Crusade (Draft Title), Crusade to Alambar (Draft Title) , New Crusade, The (Draft Title)) — *Thrilling Wonder Stories*, February 1951.
 - **Son of the Tree** — *Thrilling Wonder Stories*, June 1951.
 - **Shape-Up** — *Cosmos Science Fiction and Fantasy*, November 1953.
 - **The Augmented Agent** (published as "I-C-a-BeM") — *Amazing Stories*, October 1961.
-- **Milton Hack from Zodiac** (published as "The Man from Zodiac") — *Amazing Stories*, August 1967.
+- **Milton Hack from Zodiac** (published as "The Man from Zodiac", Phronus-Sabo Contract (Draft Title)) — *Amazing Stories*, August 1967.
 
 ## Vol. 6 — Golden Girl and Other Stories
-- **Golden Girl** — *Marvel Science Stories*, May 1951.
+- **Golden Girl** Shipwreck on Matemba (Draft Title) — *Marvel Science Stories*, May 1951. 
 - **Masquerade on Dicantropus** — *Startling Stories*, September 1951.
-- **Abercrombie Station** [Jean Parlier] — *Thrilling Wonder Stories*, February 1952.
+- **Abercrombie Station** [Jean Parlier] (Monsters in Orbit, a.k.a.) — *Thrilling Wonder Stories*, February 1952.
 - **Cholwell's Chickens** [Jean Parlier] — *Thrilling Wonder Stories*, August 1952.
 - **The Mitr** — *Vortex Science Fiction*, v1 #1, 1953.
 - **The World Between** (published as "Ecological Onslaught") — *Future Science Fiction*, May 1953.
@@ -169,7 +169,7 @@ All six stories were written for and first published together in *The Dying Eart
 - **The Houses of Iszm** — *Startling Stories*, Spring 1954.
 - **The Gift of Gab** — *Astounding Science Fiction*, September 1955.
 - **Nopalgarth** (published as "The Brains of Earth") — Ace Books, 1966 (book original; no prior serialization).
-- **The Narrow Land** — *Fantastic*, July 1967.
+- **The Narrow Land** — *Fantastic*, July 1967. Alternate title: "Clutch of the Careless One-Woman" (Draft Title).
 
 ## Vol. 9 — The Miracle Workers / The Dragon Masters / The Last Castle
 - **The Miracle Workers** — *Astounding Science Fiction*, July 1958.
@@ -192,10 +192,12 @@ All six stories were written for and first published together in *The Dying Eart
 ## Vol. 13 — The Fox Valley Murders / The Pleasant Grove Murders
 - **The Fox Valley Murders** [Sheriff Joe Bain] (published as by John Holbrook Vance) — Bobbs-Merrill, 1966.
 - **The Pleasant Grove Murders** [Sheriff Joe Bain] (published as by John Holbrook Vance) — Bobbs-Merrill, 1967.
+- 
 
 ## Vol. 14 — The Man in the Cage / The Deadly Isles
-- **The Man in the Cage** (Edgar Award, Best First Novel, 1961; published as by John Holbrook Vance) — Random House, 1960.
+- **The Man in the Cage** (Edgar Award, Best First Novel, 1961; published as by John Holbrook Vance) — Random House, 1960. (Draft Title: "No-one knows where he went".)
 - **The Deadly Isles** (published as by John Holbrook Vance) — Bobbs-Merrill, 1969.
+- **The Genesee Slough Murders** (Outline for a novel, never completed; published as by John Holbrook Vance) — *The Magazine of Fantasy and Science Fiction*, October 1960. (FACT CHECK?)
 
 ## Vol. 14 bis — Strange She Hasn't Written / Death of a Solitary Chess Player / The Man Who Walks Behind
 These are Vance's own authorial texts of the three Ellery Queen house-name mysteries, restored decades later from manuscript fragments found on the reverse of other typescripts; the editorially "tarted up" Ellery Queen versions remain separately in print under their own titles.
@@ -285,9 +287,9 @@ Collected together under the editorial title *Galactic Effectuator* (Underwood-M
 
 ## Vol. 34 — Rhialto the Marvellous [Dying Earth]
 First collected as a trio ("two new and one revised") in the Brandywyne Books limited edition.
-- **Morreion** — *Flashing Swords!* #1, ed. Lin Carter, Science Fiction Book Club, April 1973 (revised for the VIE text).
-- **Fader's Waft** — first published in *Rhialto the Marvellous*, Brandywyne Books, August 1984.
 - **The Murthe** — first published in *Rhialto the Marvellous*, Brandywyne Books, August 1984.
+- **Fader's Waft** — first published in *Rhialto the Marvellous*, Brandywyne Books, August 1984.
+- **Morreion** — *Flashing Swords!* #1, ed. Lin Carter, Science Fiction Book Club, April 1973 (revised for the VIE text).
 
 ## Vol. 35 — Cugel: The Skybreak Spatterlight [Dying Earth]
 Author's title for the editorially named *Cugel's Saga*; a fix-up of two previously published novellas plus new connective material.
