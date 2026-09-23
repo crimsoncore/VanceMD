@@ -159,10 +159,10 @@ Every Vance novel, short story, collection, and his one non-fiction book (the au
 | 1992 | *Throy* | Novel | Cadwal | Underwood-Miller, 1992 (book-original) |
 | 1992 | *When the Five Moons Rise* | Collection | — | 1992 (book) |
 | 1994 | The Genesee Slough Murders | Fragment/outline (unwritten 3rd Sheriff Joe Bain novel) | not in the original 2005 VIE Vol. 44 | *The Work of Jack Vance*, Hewett & Mallett, Underwood-Miller, 1994 |
-| 1996 | *Night Lamp* | Novel | Non-series | Underwood Books, Apr 1996 (limited/signed, 600 copies, cover by Stephen Hickman); Tor, Nov 1996 (trade hardcover) |
-| 1998 | *Ports of Call* | Novel | Ports of Call | Underwood Books, Jan 1998 (limited/signed, cover by Rick Berry); Tor, Apr 1998 (trade hardcover) |
+| 1996 | [*Night Lamp*](#night-lamp) | Novel | Non-series | Underwood Books, Apr 1996 (limited/signed, 600 copies, cover by Stephen Hickman); Tor, Nov 1996 (trade hardcover) |
+| 1998 | [*Ports of Call*](#ports-of-call) | Novel | Ports of Call | Underwood Books, Jan 1998 (limited/signed, cover by Rick Berry); Tor, Apr 1998 (trade hardcover) |
 | 1999 | *Tales of the Dying Earth* (omnibus) | Collection | Dying Earth | 1999 (book) |
-| 2004 | *Lurulu* (completes the multi-part novel begun with *Ports of Call*) | Novel | Ports of Call | Tor, 2004 (book-original) |
+| 2004 | [*Lurulu*](#lurulu) (completes the multi-part novel begun with *Ports of Call*) | Novel | Ports of Call | Tor, 2004 (book-original) |
 | 2005 | The Stark: The Voyage and the People | Fragment (unfinished-novel outline) | — | VIE Vol. 44, 2005 |
 | 2005 | The Telephone Was Ringing in the Dark | Fragment (unfinished suspense-novel ms.) | — | VIE Vol. 44, 2005 |
 | 2005 | The Magnificent Red-Hot Jazzing Seven | Fragment (unproduced screenplay concept/synopsis) | — | VIE Vol. 44, 2005 |
@@ -170,7 +170,7 @@ Every Vance novel, short story, collection, and his one non-fiction book (the au
 | 2005 | Clang | Fragment (unfinished screenplay concept/synopsis, written 1981) | — | VIE Vol. 44, 2005 |
 | 2007 | *The Jack Vance Treasury* (ed. Dowling & Strahan) | Collection | — | 2007 (book) |
 | 2009 | *Wild Thyme, Green Magic* | Collection | — | 2009 (book) |
-| 2009 | *This Is Me, Jack Vance!* | Autobiography (non-fiction) | — | Subterranean Press, 2009 (Hugo, Best Related Book, 2010) |
+| 2009 | [*This Is Me, Jack Vance!*](#this-is-me-jack-vance) | Autobiography (non-fiction) | — | Subterranean Press, 2009 (Hugo, Best Related Book, 2010) |
 | 2010 | *Hard-Luck Diggings* (The Early Jack Vance, Vol. 1) | Collection | Magnus Ridolph et al. | Subterranean Press, 2010 |
 | 2012 | *Dream Castles* (The Early Jack Vance, Vol. 2) | Collection | — | Subterranean Press, 2012 |
 | 2013 | *Magic Highways* (The Early Jack Vance, Vol. 3) | Collection | — | Subterranean Press, 2013 |
@@ -182,3 +182,53 @@ The Genesee Slough Murders was added to the 2018 Spatterlight *Wild Thyme and Vi
 - **ISBNs were removed from this page** (2026-08-21, at the user's request) to keep the table focused on first-publication venues/dates. If ISBNs are wanted again later, `references/vance-life-and-works.md` and the Subterranean Press "Early Jack Vance" series copyright pages are the fastest starting points (978-1596063013, 978-1596064515, 978-1596065604, 978-1596066458, 978-1596067103 for vols. 1–5 respectively); everything else would need a fresh ISFDB/WorldCat pass.
 - **VIE vs. commercial first editions**: this page tracks *commercial* first publications only. For the VIE's own restored/authorial texts and their relationship to first commercial editions, see `VIE.md`.
 - **Coverage is complete per the VIE's own record** (2026-08-21 pass, ~160 items across novels, short fiction, collections, and the autobiography, drawn from `VIE.md`'s per-volume contents plus the 2018 Spatterlight addendum). Treat as complete unless a title turns up that isn't here; it has not been independently re-verified against ISFDB's chronological title list item-by-item.
+
+<a id="this-is-me-jack-vance"></a>
+
+# 2009 *This Is Me, Jack Vance!* (2009) 
+
+***This Is Me, Jack Vance!*** is the only non-fiction work by Vance, and it won the ***2010 Hugo Award*** for Best Related Book.
+
+| | | |
+| --- | --- | --- |
+| ![image](./images/thisi_2.jpg) | ![image](./images/thisis_um.jpg) | ![image](./images/thisis_square.jpg) |
+
+Jack's autobiography provides an intimate and fascinating glimpse into his rich and eventful life, offering readers a unique perspective on the man behind the celebrated works. It's also his last published work, he no longer used his computer setup but dictated his memoirs. Jeremy Cavaterra (Jack's caretaker), transcribed the dictated memoirs into the final published form (Norma sadly passed away before the book was completed).
+
+> There are two additional noteworhthy books released that give more insight into Jack's life and works: *About Jack Vance* and *Jack Vance Interviews* both by ***Jean Luc Esteban***, available on lulu.com
+
+| | |
+| --- | --- |
+| ![image](./images/AboutVance.jpg) | ![image](./images/VanceInterviews.jpg) |
+
+
+<a id="lurulu"></a>
+
+# 2004 *Lurulu*
+
+
+<a id="ports-of-call"></a>
+
+# 1998 *Ports of Call*
+
+Ports of call was intended as a 2-volume series, ***Lurulu*** was released as the second volume in 2004. This was also the last (fiction) novel by Vance to be published during his lifetime, and the last to get the luxury Underwood Books treatment.
+
+> Additional information about the writing of Ports of Call can be found in the companion book "Backstage with Jack Vance" by Spatterlight Press. It contains a lot of information about the writing of Ports of Call, including the outline of the novel, some background stories, and details that didn't make it into the final book.
+
+<a id="night-lamp"></a>
+
+# 1996 *Night Lamp*
+
+***Night Lamp*** is the first novel by Vance to be published in hardcover by a major trade publisher (Tor), and the first to be published in hardcover since 1979's *The Face*. It was originally published in a limited edition of 600 signed copies by Underwood Books, with cover art by Stephen Hickman.
+
+> ***Spatterlight Press*** has released a companion book called "Backstage with Jack Vance" which contains a lot of information about the writing of *Night Lamp*. It's the outline of Night Lamp, it gives an insight into the writing of the novel, some background stories, names of characters have been changed - some details from the outline didn't make it into the novel, it is a very interesting read for anyone who is interested in the writing process of Jack Vance.
+
+# xxxx Big Planet (1952)
+
+Cosmopolis 25 has a very interesting article about the history of the publication of Big Planet, and the differences between the original magazine version and the later book version. The article is called "Big Planet, Big Scissors…" by Patrick Dusoulier
+
+Most of you, dear Readers, are under the impression that you have read Big Planet, a novel written by Jack Vance, as published by ACE in 1957.
+
+# 1952 Gold and Iron (1952)
+VIE edition is missing the few paragraphs (as appeared in the "space Stories" and "Underwood-Miller" books) - the Spatterlight edition has the complete text.
+

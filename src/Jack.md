@@ -22,3 +22,42 @@ this book Vance gives us an intimate and fascinating glimpse into his rich and e
 Jack Vance spent his 'post-writing' years making jazz music, he even released an entire jazz-album only
 two months ago, and kept abreast of what went on in the world (science, politics, general news) with a
 keen and honest interest in a steady stream of visitors and admirers.
+
+# Norma Vance
+
+![image](./images/JackNormaVance_CNB_1997.jpg)
+
+Jack met Norma Vance in the early 1950s, and they were married shortly thereafter. Norma played a significant role in Jack's life, providing support and stability throughout his prolific writing career. Norma would type up Jack's manuscripts, which he wrote in longhand. She was a constant presence and collaborator, ensuring that Jack's creative output could continue smoothly despite the challenges of his meticulous writing process.
+
+They had one Son, John Vance - who now manages the literary estate of Jack Vance and oversees the publication of his works through ***Spatterlight Press***.
+
+More coming soon about Norma and her role in Jack's life and work.
+
+# Travel
+
+# Houseboats
+
+# Music
+
+# Awards
+
+![image](./images/vance-hugo-2010-australia.jpg)
+
+"Jack Vance receiving the 2010 Hugo Award for Best Related Work for his memoir ***This is Me, Jack Vance!*** at Aussiecon 4, the 68th World Science Fiction Convention in Melbourne, Australia."
+
+# VIE (Vance Integral Edition)
+
+In the late 1990s, the Vance Integral Edition (VIE) project was initiated to create a comprehensive and authoritative collection of Jack Vance's works. This project aimed to restore Vance's texts to their original form, correcting errors and inconsistencies that had appeared in previous editions. The VIE has become an essential resource for scholars and fans alike, ensuring that Vance's literary legacy is preserved with the utmost fidelity.
+
+Paul Rhoads was the driving force behind the Vance Integral Edition, overseeing the meticulous process of collating, editing, and restoring Jack Vance's works to their intended form. His dedication and expertise have been instrumental in ensuring the accuracy and completeness of this comprehensive collection.
+
+# Later Years, Eyesight and writing setup
+
+Vance's eyesight was failing already in the eighties, which made it increasingly difficult for him to read and write.
+
+<https://www.youtube.com/watch?v=TvuoIpTy4Ks&t=1348s>
+
+![image](./images/vance_computer.jpg)
+![image](./images/sfbuzz04.jpg)
+
+# LEGACY - John Vance & Spatterlight Press
