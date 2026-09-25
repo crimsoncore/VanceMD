@@ -227,8 +227,26 @@ Ports of call was intended as a 2-volume series, ***Lurulu*** was released as th
 
 Cosmopolis 25 has a very interesting article about the history of the publication of Big Planet, and the differences between the original magazine version and the later book version. The article is called "Big Planet, Big Scissors…" by Patrick Dusoulier
 
-Most of you, dear Readers, are under the impression that you have read Big Planet, a novel written by Jack Vance, as published by ACE in 1957.
+Most of you, dear Readers, are under the impression that you have read Big Planet, a novel written by Jack Vance, as published by ACE (Ace was notoriously bad when it came to editing) in 1957.
 
 # 1952 Gold and Iron (1952)
-VIE edition is missing the few paragraphs (as appeared in the "space Stories" and "Underwood-Miller" books) - the Spatterlight edition has the complete text.
+Gold and Iron was originally published in "Space Stories" magazine, December 1952, under the title "Planet of the Damned". The story was later published in book form by Ace Books in 1958, under the title "Gold and Iron". The VIE edition is missing a few paragraphs that were present in the original magazine version and the Underwood-Miller edition. The Spatterlight edition has the complete text.
 
+# 1950 The Dying Earth
+
+decided to enroll as a freshman at the University of California, Berkeley. He initially studied physics but quickly switched to English and joined the staff of the university newspaper, the Daily Californian, an activity he was passionate about, writing articles on jazz.
+Finally, after a few years of a tedious university life, he decided to enlist in the Navy as an "electrician" and went to work at the Honolulu Naval Shipyard. The attempt fails and he returns to San Francisco (one week before the attack on Pearl Harbor!).
+With war declared, he found work as a rigger at the Richmond shipyard.
+Around this time, he bought a cornet and practiced music diligently.
+
+In 1943, to avoid conscription, which now extended to those with deferments, he enlisted as a seaman in the merchant navy (he cheated on the medical examination by memorizing the vision test) and embarked on his first voyage to Australia.
+He spent the entire war on ships sailing in the Pacific. Having a lot of free time, he took advantage of it to write his first short stories: six stories that would become the collection *The Dying Earth*, published in 1950, as well as two detective novels (*The Flesh Mask* and *Isle of Peril*).
+He finally disembarked and moved in temporarily with his mother. He managed to find work as a carpenter, a trade he learned and enjoyed. He wrote his first published short story: *The World Thinker*.
+He met Norma Ingold, whom he married soon after.
+The newlyweds were both interested in pottery and decided to open a shop in San Francisco. However, the business wasn't profitable, and they had to sell. Norma encouraged him to write, but he still had to work in carpentry to support the couple.
+They moved to Berkeley with their two cats. He was determined to write "a million words a year" and quickly wrote several short stories, including "Bad Luck," which caught the attention of Century Fox, who offered him a screenwriting contract. They moved to Hollywood. The experience didn't last, but it earned them enough money to organize a trip to Europe. He also published the first stories in the Magnus Ridolphus series.
+First trip: They sailed to Southampton for a tour of England and then Austria, where they stayed for several months, writing some short stories. They then traveled to Venice, then Naples, and finally Positano, where they settled to finish the novel "The Vandals of the Void."
+Back in the US, Vance was contacted by his agent, Scott Meredith, who offered him a well-paid scriptwriting job for the TV series Captain Video and His Video Rangers. Vance and Norma moved to New York but returned to Kenwood, California, after a few months. Vance's overly ironic style had ultimately alienated the producer, and their collaboration ended.
+In 1950, he published *The Dying Earth*, based on short stories he had written while serving in the Merchant Marine. Vance also wrote *Big Planet*, which was published in an abridged and expurgated version in 1953, along with about ten other short stories.
+
+SOURCE : 
